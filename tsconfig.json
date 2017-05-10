@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": false,
+    "allowJs": true
+  },
+  "visualStudioErrorFormat": true,
+  "entryFileIsJs": true,
+  "exclude": [
+    "node_modules"
+  ]
+}
